@@ -1,0 +1,66 @@
+{
+  "uid" : "c6e456bd5be2a6eb",
+  "name" : "D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_001",
+  "fullName" : "scripts.D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_001",
+  "historyId" : "b4ac7bf5f8de6ea8cb69181bd9797175",
+  "time" : {
+    "start" : 1560476552318,
+    "stop" : 1560476552489,
+    "duration" : 171
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_login.TestLogin object at 0x00000244B39F55C0>\n\n    def test_001(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_login.py:3: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "PC-20190324ALRO"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8356-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_001"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c6e456bd5be2a6eb.json",
+  "parameterValues" : [ ]
+}

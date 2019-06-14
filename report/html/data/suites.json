@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_001",
+      "uid" : "c6e456bd5be2a6eb",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "failed",
+      "time" : {
+        "start" : 1560476552318,
+        "stop" : 1560476552489,
+        "duration" : 171
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_003",
+      "uid" : "f1cb88dc4a329a39",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560476552489,
+        "stop" : 1560476552499,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_002",
+      "uid" : "dbb8bdd36faa8710",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560476552489,
+        "stop" : 1560476552489,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

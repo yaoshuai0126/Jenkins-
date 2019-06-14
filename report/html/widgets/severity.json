@@ -1,0 +1,31 @@
+[ {
+  "uid" : "c6e456bd5be2a6eb",
+  "name" : "D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_001",
+  "time" : {
+    "start" : 1560476552318,
+    "stop" : 1560476552489,
+    "duration" : 171
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1cb88dc4a329a39",
+  "name" : "D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_003",
+  "time" : {
+    "start" : 1560476552489,
+    "stop" : 1560476552499,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbb8bdd36faa8710",
+  "name" : "D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_002",
+  "time" : {
+    "start" : 1560476552489,
+    "stop" : 1560476552489,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

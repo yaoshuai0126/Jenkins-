@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 0",
+      "children" : [ {
+        "name" : "D:\\就业班学习课件\\APP自动化\\代码\\Jenkins上传\\scripts.test_login.TestLogin.test_001",
+        "uid" : "c6e456bd5be2a6eb",
+        "parentUid" : "c9c77d7ae15b4ab6e63220cefc19b68f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1560476552318,
+          "stop" : 1560476552489,
+          "duration" : 171
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9c77d7ae15b4ab6e63220cefc19b68f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
